@@ -1,0 +1,229 @@
+fileFormatVersion: 2
+guid: 244d682dcb690b949b69d81da0b19849
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Bone01
+    100002: Bone02
+    100004: Bone03
+    100006: Bone04
+    100008: Bone05
+    100010: Bone06
+    100012: Bone07
+    100014: Bone10
+    100016: Bone11
+    100018: Bone12
+    100020: Bone13
+    100022: Bone14
+    100024: Bone15
+    100026: Bone16
+    100028: Bone17
+    100030: //RootNode
+    100032: IK Chain01
+    100034: IK Chain02
+    100036: PBone01 Base
+    100038: PBone01 Base01
+    100040: PBone01 Base02
+    100042: PBone01 Base03
+    100044: PBone01 Base04
+    100046: PBone01 Base05
+    100048: PBone01 Base06
+    100050: PBone01 Base07
+    100052: PBone02
+    100054: PBone03
+    100056: PBone04
+    100058: PBone05
+    100060: PBone06
+    100062: PBone07
+    100064: PBone08
+    100066: PBone09
+    100068: PBone10
+    100070: PBone11
+    100072: PBone12
+    100074: PBone13
+    100076: PBone14
+    100078: PBone15
+    100080: PBone16
+    100082: PBone17
+    100084: Petal03
+    100086: Petal04
+    100088: Petal05
+    100090: Petal06
+    100092: Petal07
+    100094: Petal08
+    100096: Petal09
+    100098: Petal10
+    100100: Point01
+    100102: Point02
+    100104: Point03
+    100106: Pollen Ball
+    100108: Stem
+    100110: stem Base
+    400000: Bone01
+    400002: Bone02
+    400004: Bone03
+    400006: Bone04
+    400008: Bone05
+    400010: Bone06
+    400012: Bone07
+    400014: Bone10
+    400016: Bone11
+    400018: Bone12
+    400020: Bone13
+    400022: Bone14
+    400024: Bone15
+    400026: Bone16
+    400028: Bone17
+    400030: //RootNode
+    400032: IK Chain01
+    400034: IK Chain02
+    400036: PBone01 Base
+    400038: PBone01 Base01
+    400040: PBone01 Base02
+    400042: PBone01 Base03
+    400044: PBone01 Base04
+    400046: PBone01 Base05
+    400048: PBone01 Base06
+    400050: PBone01 Base07
+    400052: PBone02
+    400054: PBone03
+    400056: PBone04
+    400058: PBone05
+    400060: PBone06
+    400062: PBone07
+    400064: PBone08
+    400066: PBone09
+    400068: PBone10
+    400070: PBone11
+    400072: PBone12
+    400074: PBone13
+    400076: PBone14
+    400078: PBone15
+    400080: PBone16
+    400082: PBone17
+    400084: Petal03
+    400086: Petal04
+    400088: Petal05
+    400090: Petal06
+    400092: Petal07
+    400094: Petal08
+    400096: Petal09
+    400098: Petal10
+    400100: Point01
+    400102: Point02
+    400104: Point03
+    400106: Pollen Ball
+    400108: Stem
+    400110: stem Base
+    2100000: 23 - Default
+    2100002: 16 - Default
+    2100004: 21 - Default
+    2100006: 22 - Default
+    2300000: Pollen Ball
+    2300002: stem Base
+    3300000: Pollen Ball
+    3300002: stem Base
+    4300000: Petal04
+    4300002: Petal05
+    4300004: Petal06
+    4300006: Petal07
+    4300008: Petal08
+    4300010: Petal09
+    4300012: Petal10
+    4300014: Pollen Ball
+    4300016: Petal03
+    4300018: Stem
+    4300020: stem Base
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Petal03
+    13700002: Petal04
+    13700004: Petal05
+    13700006: Petal06
+    13700008: Petal07
+    13700010: Petal08
+    13700012: Petal09
+    13700014: Petal10
+    13700016: Stem
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.2
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
